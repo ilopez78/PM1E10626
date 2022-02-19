@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="ListaContactos" type="id" />
+    <item name="txtnombre" type="id" />
+    <item name="txttelefono" type="id" />
+    <item name="txtnota" type="id" />
+    <item name="btnEliminar" type="id" />
+    <item name="btnActualizar" type="id" />
+    <item name="btnAtras" type="id" />
+</resources>
